@@ -1,0 +1,198 @@
+body {
+    max-width:720px;
+    margin:40px auto;
+    padding:0 10px;
+    color:white;
+/*    color: #c9c9f1; */
+    background-color: #0d0d23;
+    font-family: Fira Sans, Arial, sans-serif;
+    /*font-weight: medium; */
+}
+
+h1, h2, h3, h4, h5, h6 {
+      font-family: Fira Sans, Arial, sans-serif;
+      font-weight: medium;
+      line-height:1.5;
+      color: #fff;
+      opacity: 0.75;
+}
+
+p {
+	  font-size: 18px;
+	  line-height:1.5;
+}
+
+div.list {
+	  font-size: 18px;
+	  line-height:1.2;
+      color: #fff;
+      opacity: 0.75;
+}
+
+p.post {
+	  font-size: 18px;
+      line-height:1.5;
+      color: #fff;
+      opacity: 0.75;
+
+}
+
+#blueThing {
+  border-radius: 12px;
+  background: #1b1b47;
+  padding: 10px; 
+  width: 1.0;
+}
+
+#cyanThing {
+  border-radius: 12px;
+  background: #1b3647;
+  padding: 10px; 
+  width: 1.0;
+}
+
+#orangeThing {
+  border-radius: 12px;
+  background: #47271b;
+  padding: 10px; 
+  width: 1.0;
+}
+
+li {
+	  font-size: 18px;
+	  color: #fff;
+      opacity: 0.75;
+      line-height:1.5;
+
+}
+
+div.buttonline {
+  text-align: center;
+  line-height: 54px;
+}
+
+a {
+  text-decoration: none;
+}
+
+/* @import url(//fonts.googleapis.com/css?family=Fira+Sans); */
+
+a:link { text-decoration: none; color: #80d4ff; }
+
+a:visited { text-decoration: none; color: #80d4ff; }
+
+a:hover { text-decoration: none; }
+
+a:active { text-decoration: none; }
+
+button.fancy {
+  appearance: none;
+  border: none;
+  border-radius: 10px;
+  padding: 2px 20px 5px 10px;
+  width: 116px;
+  
+  cursor: pointer;
+  
+  color: #fff;
+  
+  text-align: left;
+  
+  font-weight: 600;
+  line-height: 20px;
+
+  user-select: none;
+  vertical-align: middle;
+  white-space: nowrap;
+}
+
+button.wider {
+  appearance: none;
+  border: none;
+  border-radius: 10px;
+  padding: 2px 20px 5px 10px;
+  width: 100%;
+  max-width: 356px;
+  
+  cursor: pointer;
+  
+  color: #fff;
+  
+  text-align: left;
+  
+  font-weight: 600;
+  line-height: 20px;
+
+  user-select: none;
+  vertical-align: middle;
+  white-space: nowrap;
+}
+
+button.channel {
+  appearance: none;
+  border: none;
+  border-radius: 10px;
+  padding: 2px 20px 5px 10px;
+  width: 100%;
+  
+  cursor: pointer;
+  
+  color: #fff;
+  
+  text-align: left;
+  
+  font-weight: 600;
+  line-height: 20px;
+
+  user-select: none;
+  vertical-align: middle;
+  white-space: nowrap;
+}
+
+span.sitesmall {
+  font-family: 'Fira Sans', sans-serif;
+  font-weight: medium;
+  font-size: 12px;
+  opacity: 0.5;
+}
+
+span.sitelarge {
+  font-family: 'Fira Sans', sans-serif;
+  font-weight: medium;
+  font-size: 18px;
+  opacity: 0.75;
+}
+
+p.fira {
+  font-family: 'Fira Sans', sans-serif;
+  font-weight: medium;
+}
+
+h.fira {
+  font-family: 'Fira Sans', sans-serif;
+  font-weight: medium;
+}
+
+table.center {
+	margin-left: auto;
+	margin-right: auto;
+	border-radius: 12px;
+	border-spacing: 0;
+    font-size: 18px;
+    background: #47271b;
+    color: #fff;
+    opacity: 0.75;
+}
+
+table.center td, 
+table.center th { 
+  padding: 10px; 
+  }
+table.roundedCorners tr:last-child > td {
+  border-bottom: none;
+}
+
+ .dynamiclogo{
+     width:100%;
+     max-width:370px;
+ }
