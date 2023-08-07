@@ -34,12 +34,10 @@ p.post {
       line-height:1.5;
       color: #fff;
       opacity: 0.75;
-      padding-left: 12px;
-
 }
 
 p.small {
-	  font-size: 14px;
+          font-size: 14px;
       line-height:1.5;
       color: #fff;
       opacity: 0.75;
@@ -119,8 +117,8 @@ button.fancy {
 button.double {
   appearance: none;
   border: none;
-  border-radius: 12px;
-  padding: 12px 12px 12px 12px;
+  border-radius: 10px;
+  padding: 2px 20px 5px 10px;
   width: 176px;
   
   cursor: pointer;
