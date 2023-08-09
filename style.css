@@ -52,6 +52,13 @@ p.snippet {
       opacity: 1.0;
 }
 
+p.snippetcomment {
+	  font-size: 16px;
+      line-height:1.5;
+      color: #fff;
+      opacity: 0.75;
+}
+
 #blueThing {
   border-radius: 12px;
   background: #1b1b47;
