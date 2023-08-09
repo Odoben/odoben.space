@@ -45,6 +45,13 @@ p.small {
 
 }
 
+p.snippet {
+	  font-size: 16px;
+      line-height:1.5;
+      color: #fff;
+      opacity: 1.0;
+}
+
 #blueThing {
   border-radius: 12px;
   background: #1b1b47;
@@ -285,6 +292,13 @@ span.sitelarge {
   font-family: 'Fira Sans', sans-serif;
   font-weight: medium;
   font-size: 18px;
+  opacity: 0.75;
+}
+
+span.snippetinfo {
+  font-family: 'Fira Sans', sans-serif;
+  font-weight: medium;
+  font-size: 14px;
   opacity: 0.75;
 }
 
