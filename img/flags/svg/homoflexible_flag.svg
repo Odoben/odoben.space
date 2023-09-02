@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 800 480" style="enable-background:new 0 0 800 480;" xml:space="preserve">
+<style type="text/css">
+	.st0{display:none;}
+	.st1{display:inline;fill:#3E1A78;}
+	.st2{display:inline;fill:#5049CB;}
+	.st3{display:inline;fill:#7BADE3;}
+	.st4{display:inline;fill:#FFFFFF;}
+	.st5{display:inline;fill:#99E8C2;}
+	.st6{display:inline;fill:#26CEAA;}
+	.st7{display:inline;fill:#078D70;}
+	.st8{fill:#FFFFFF;}
+	.st9{fill:#FF9A56;}
+	.st10{fill:#EF7627;}
+	.st11{fill:#D52D00;}
+	.st12{fill:#D162A4;}
+	.st13{fill:#B55690;}
+	.st14{fill:#A30262;}
+	.st15{fill:#0038A8;}
+	.st16{fill:#9B4F96;}
+	.st17{fill:#D60270;}
+	.st18{display:inline;}
+	.st19{display:inline;fill:#21B1FF;}
+	.st20{display:inline;fill:#FFD800;}
+	.st21{display:inline;fill:#FF218C;}
+</style>
+<g class="st0">
+	<path class="st1" d="M0,0h800v480H0V0z"/>
+	<path class="st2" d="M0,0h800v411.4H0V0z"/>
+	<path class="st3" d="M0,0h800v342.9H0V0z"/>
+	<path class="st4" d="M0,0h800v274.3H0V0z"/>
+	<path class="st5" d="M0,0h800v205.7H0V0z"/>
+	<path class="st6" d="M0,0h800v137.1H0V0z"/>
+	<path class="st7" d="M0,0h800v68.6H0V0z"/>
+</g>
+<g>
+	<path class="st8" d="M0,205.7h800v68.6H0V205.7L0,205.7z"/>
+	<path class="st9" d="M0,137.1h800v68.6H0V137.1L0,137.1z"/>
+	<path class="st10" d="M0,68.6h800v68.6H0V68.6L0,68.6z"/>
+	<path class="st11" d="M0,0h800v68.6H0V0L0,0z"/>
+	<path class="st12" d="M0,274.3h800v68.6H0V274.3L0,274.3z"/>
+	<path class="st13" d="M0,342.8h800v68.6H0V342.8L0,342.8z"/>
+	<path class="st14" d="M0,411.4h800V480H0V411.4L0,411.4z"/>
+</g>
+<g>
+	<g id="XMLID_1_">
+		<g>
+			<polygon class="st8" points="87,0 327,240 87,480 0,480 0,0 			"/>
+		</g>
+	</g>
+	<path class="st15" d="M0,480L0.1,0L240,239.9L0,480z"/>
+	<path class="st16" d="M156.9,239.9L0,396.8V83.1L156.9,239.9z"/>
+	<path class="st17" d="M0,355.2V124.7L115.3,240L0,355.2z"/>
+</g>
+<g class="st0">
+	<g id="XMLID_2_" class="st18">
+		<g>
+			<polygon class="st8" points="87,0 327,240 87,480 0,480 0,0 			"/>
+		</g>
+	</g>
+	<path class="st19" d="M0,480L0.1,0L240,239.9L0,480z"/>
+	<path class="st20" d="M177.6,239.9L0,417.5V62.4L177.6,239.9z"/>
+	<path class="st21" d="M0,355.2V124.7L115.3,240L0,355.2z"/>
+</g>
+</svg>

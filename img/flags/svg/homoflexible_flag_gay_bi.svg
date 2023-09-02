@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 800 480" style="enable-background:new 0 0 800 480;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#3E1A78;}
+	.st1{fill:#5049CB;}
+	.st2{fill:#7BADE3;}
+	.st3{fill:#FFFFFF;}
+	.st4{fill:#99E8C2;}
+	.st5{fill:#26CEAA;}
+	.st6{fill:#078D70;}
+	.st7{fill:#0038A8;}
+	.st8{fill:#9B4F96;}
+	.st9{fill:#D60270;}
+</style>
+<g>
+	<path class="st0" d="M0,0h800v480H0V0z"/>
+	<path class="st1" d="M0,0h800v411.4H0V0z"/>
+	<path class="st2" d="M0,0h800v342.9H0V0z"/>
+	<path class="st3" d="M0,0h800v274.3H0V0z"/>
+	<path class="st4" d="M0,0h800v205.7H0V0z"/>
+	<path class="st5" d="M0,0h800v137.1H0V0z"/>
+	<path class="st6" d="M0,0h800v68.6H0V0z"/>
+</g>
+<g>
+	<g id="XMLID_1_">
+		<g>
+			<polygon class="st3" points="87,0 327,240 87,480 0,480 0,0 			"/>
+		</g>
+	</g>
+	<path class="st7" d="M0,480L0.1,0L240,239.9L0,480z"/>
+	<path class="st8" d="M156.9,239.9L0,396.8V83.1L156.9,239.9z"/>
+	<path class="st9" d="M0,355.2V124.7L115.3,240L0,355.2z"/>
+</g>
+</svg>
