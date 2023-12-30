@@ -16,6 +16,17 @@
                 "#3e2a09",
                 "#fcf1cc"
             ]
+        },
+
+        {
+            "name": "Pasqual \"Pacha\" Brisa",
+            "pronouns": "He/They",
+            "gender": "Male",
+            "species": "Humboldt penguin",
+            "description": "WIP",
+            "ref": "https://odoben.space/ref",
+            "avatar": "https://odoben.space/img/sketch_pacha.png"
+
         }
     ]
 }
