@@ -1,0 +1,20 @@
+{
+    "sonas": [
+        {
+            "name": "Norbert \"Odo\" O'Doben",
+            "pronouns": "He/They",
+            "gender": "Male",
+            "species": "atlantic walrus",
+            "description": "Lorem ipsum",
+            "ref": "https://odoben.space//ref",
+            "avatar": "https://odoben.space/img/whoami2.png",
+            "age": 27,
+            "birthdate": "1996-03-05T12:00:00+00:00",
+            "colors": [
+                "#947643",
+                "#dbd5c06",
+                "#fcf1cc"
+            ]
+        }
+    ]
+}
