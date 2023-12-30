@@ -6,7 +6,7 @@
             "gender": "Male",
             "species": "atlantic walrus",
             "description": "Everything is WIP, including the design and colours",
-            "ref": "https://odoben.space//ref",
+            "ref": "https://odoben.space/ref",
             "avatar": "https://odoben.space/img/whoami2.png",
             "age": 27,
             "birthdate": "1996-03-05T12:00:00+00:00",
@@ -24,7 +24,7 @@
             "gender": "Male",
             "species": "Humboldt penguin",
             "description": "WIP",
-            "ref": "https://odoben.space//ref",
+            "ref": "https://odoben.space/ref",
             "avatar": "https://odoben.space/img/sketch_pacha.png",
         },
 
@@ -34,7 +34,7 @@
             "gender": "Male",
             "species": "Danube crested newt",
             "description": "WIP",
-            "ref": "https://odoben.space//ref",
+            "ref": "https://odoben.space/ref",
             "avatar": "https://odoben.space/img/sketch_diru.png",
         },
 
@@ -44,7 +44,7 @@
             "gender": "Male",
             "species": "European beaver",
             "description": "WIP",
-            "ref": "https://odoben.space//ref",
+            "ref": "https://odoben.space/ref",
         }
     ]
 }
