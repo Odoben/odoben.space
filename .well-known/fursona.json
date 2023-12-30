@@ -25,7 +25,13 @@
             "species": "Humboldt penguin",
             "description": "WIP",
             "ref": "https://odoben.space/ref",
-            "avatar": "https://odoben.space/img/sketch_pacha.png"
+            "avatar": "https://odoben.space/img/sketch_pacha.png",
+            "colors": [
+                "#ffffff",
+                "#ffffff",
+                "#ffffff",
+                "#ffffff"
+            ]
         },
 
         {
@@ -35,7 +41,13 @@
             "species": "Danube crested newt",
             "description": "WIP",
             "ref": "https://odoben.space/ref",
-            "avatar": "https://odoben.space/img/sketch_diru.png"
+            "avatar": "https://odoben.space/img/sketch_diru.png",
+                        "colors": [
+                            "#ffffff",
+                            "#ffffff",
+                            "#ffffff",
+                            "#ffffff"
+            ]
         },
 
         {
@@ -45,7 +57,13 @@
             "species": "European beaver",
             "description": "WIP",
             "ref": "https://odoben.space/ref",
-            "avatar": "https://odoben.space/img/sketch_felix.png"
+            "avatar": "https://odoben.space/img/sketch_felix.png",
+            "colors": [
+                "#ffffff",
+                "#ffffff",
+                "#ffffff",
+                "#ffffff"
+            ]
         }
     ]
 }
