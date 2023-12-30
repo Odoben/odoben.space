@@ -25,13 +25,8 @@
             "species": "Humboldt penguin",
             "description": "WIP",
             "ref": "https://odoben.space/ref",
-            "avatar": "https://odoben.space/img/sketch_pacha.png",
-            "colors": [
-                "#ffffff",
-                "#ffffff",
-                "#ffffff",
-                "#ffffff"
-            ]
+            "avatar": "https://odoben.space/img/sketch_pacha.png"
+
         }
     ]
 }
