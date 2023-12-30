@@ -48,6 +48,22 @@
                             "#ffffff",
                             "#ffffff"
             ]
+        },
+
+        {
+            "name": "Felix",
+            "pronouns": "He/They",
+            "gender": "Male",
+            "species": "European beaver",
+            "description": "WIP",
+            "ref": "https://odoben.space/ref",
+            "avatar": "https://odoben.space/img/sketch_felix.png",
+            "colors": [
+                "#ffffff",
+                "#ffffff",
+                "#ffffff",
+                "#ffffff"
+            ]
         }
     ]
 }
